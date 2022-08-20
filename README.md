@@ -7,8 +7,7 @@ apt-get install nano
 apt-get install git
 git clone https://github.com/minz2001/tiktok
 cd /tiktok
-pip install wheel
-pip install requests bs4 cursor pystyle pillow
+pip install -r requirements.txt
 nano config.json
 python bot.py
 ```
