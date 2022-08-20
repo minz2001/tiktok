@@ -9,5 +9,6 @@ git clone https://github.com/minz2001/tiktok
 cd /tiktok
 pip install wheel
 pip install requests bs4 cursor pystyle pillow
+nano config.json
 python bot.py
 ```
